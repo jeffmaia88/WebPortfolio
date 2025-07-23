@@ -1,0 +1,43 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+
+}
+
+#colorlinks a {
+  color: #ffffff
+}
+
+#colorlinks a:hover {
+  color: #7911fa
+}
+
+.line-bottom {
+  border-bottom: 4px solid #7911fa;
+}
+
+.line-top {
+  border-top: 4px solid #7911fa;
+}

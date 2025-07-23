@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="16x16" href="~/images/favicon.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+    <title>@ViewData["Title"] - Portfólio</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    @RenderSection("Estilos", required: false)
+    <link rel="stylesheet" href="~/Site.styles.css" asp-append-version="true" />
+</head>
+
+<body class=" bg-dark text-white">
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-dark line-bottom">
+            <div class="container">
+                <a class="navbar-brand">
+                    <img src="~/images/logo.png" width="142">
+                </a>
+                <div class="collapse navbar-collapse ">
+                    <ul class="navbar-nav ms-auto " id="colorlinks">
+                        <li class="nav-item text-light">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Início</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Sobre">Sobre</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Projetos">Projetos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Contato">Contato</a>
+                        </li>
+                    </ul>
+
+                </div>
+
+            </div>
+
+        </nav>
+    </header>
+    <div class="bg-dark text-white">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer text-muted line-top">
+        <div class="container"></div>
+        &copy; 2025 - Site - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>
