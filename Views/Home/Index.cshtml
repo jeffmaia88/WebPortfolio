@@ -4,14 +4,79 @@
 
 
 
+<section class="vh-100 d-flex principal">
+    <div class="container align-self-center text-white">
+        <div class="row">
+            <div class="text-center col-md-12">
+                <div class="carousel slide" id="controle" data-bs-ride="carousel" data-bs-interval="5000">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <h5 class=" fs-3 text display-4">Olá, visitante!</h5>
+                                <h1 class=" fw-bold display-3">Meu nome é Jefferson</h1>
+                                <h3 class="fs-3 display-5">Desenvolvedor FullStack</h3>
 
-<div class=" d-flex justify-content-center align-items-center vh-100 text-white principal bg-dark">
-    <div class="text-center">
-        <h5 class=" fs-3 text display-4">Olá, visitante!</h5>
-        <h1 class="display-4">Meu nome é Jefferson Maia</h1>
-        <h3 class="fs-3 display-5">Desenvolvedor FullStack</h3>
+                                <div class="text-center mt-5 navbar-expand-sm">
+                                    <ul class="navbar-nav justify-content-center ">
+                                        <li>                
+                                            <a href="https://linkedin.com/in/jefferson-maia88">
+                                            <img src="~/images/linkedin.png" width="30">
+                                            </a>
+                                        </li>
+                                        <li class="ms-5">
+                                            <a href="https://github.com/jeffmaia88">
+                                                <img src="~/images/github.png" width="30">                    
+                                            </a>
+                                        </li>
+                                        <li class="ms-5">
+                                            <a href="#">
+                                                <img src="~/images/mail.png" width="40">
+                                            </a>
+                                        </li>
+
+                                    </ul>
+                                </div>                      
+                            </div>
+
+                            <div class="carousel-item">
+                                <h5 class=" fs-3 text display-4">Teste Carousel</h5>
+                                <h1 class=" fw-bold display-3">2º Item</h1>
+                                <h3 class="fs-3 display-5">Alguns Projetos</h3>
+
+                                <div class="text-center mt-5 navbar-expand-sm">
+                                    <ul class="navbar-nav justify-content-center ">
+                                        <li>                
+                                            <a href="https://linkedin.com/in/jefferson-maia88">
+                                            <img src="~/images/linkedin.png" width="30">
+                                            </a>
+                                        </li>
+                                        <li class="ms-5">
+                                            <a href="https://github.com/jeffmaia88">
+                                                <img src="~/images/github.png" width="30">                    
+                                            </a>
+                                        </li>
+                                        <li class="ms-5">
+                                            <a href="#">
+                                                <img src="~/images/mail.png" width="40">
+                                            </a>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>                        
+                        </div> 
+                    <a href="#controle" class="carousel-control-prev text-decoration-none" data-bs-slide="prev">
+                        <i class="fas fa-angle-left fa-3x"></i>
+                    </a>
+
+                    <a href="#controle" class="carousel-control-next text-decoration-none" data-bs-slide="next">
+                        <i class="fas fa-angle-right fa-3x"></i>
+                    </a>
+
+                </div>
+            </div>
+        </div>
     </div>
-</div>
+</section>
 
 
 @section Estilos {
@@ -20,8 +85,7 @@
             background-image: url('@Url.Content("~/images/bgindex2.jpg")');
             background-position: center;
             background-repeat: no-repeat;
-            height: 100vh;
-            width: 100vw;
+
         }
     </style>
 }

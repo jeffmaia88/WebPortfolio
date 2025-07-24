@@ -35,9 +35,9 @@ body {
 }
 
 .line-bottom {
-  border-bottom: 4px solid #7911fa;
+  border-bottom: 1px solid #7911fa;
 }
 
 .line-top {
-  border-top: 4px solid #7911fa;
+  border-top: 1px solid #7911fa;
 }
