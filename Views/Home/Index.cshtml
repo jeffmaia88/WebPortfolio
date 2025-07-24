@@ -4,13 +4,15 @@
 
 
 
-<section class="vh-100 d-flex principal">
+<section class="vh-100 d-flex principal">     <!-- Section Principal com o Carousel e a Apresentação -->
+
     <div class="container align-self-center text-white">
         <div class="row">
             <div class="text-center col-md-12">
-                <div class="carousel slide" id="controle" data-bs-ride="carousel" data-bs-interval="5000">
+                <div class="carousel slide" id="controle" data-bs-ride="carousel" data-bs-interval="5000">  <!-- Início do Caroussel-->
                         <div class="carousel-inner">
-                            <div class="carousel-item active">
+
+                            <div class="carousel-item active">  <!-- Slide 1 -->
                                 <h5 class=" fs-3 text display-4">Olá, visitante!</h5>
                                 <h1 class=" fw-bold display-3">Meu nome é Jefferson</h1>
                                 <h3 class="fs-3 display-5">Desenvolvedor FullStack</h3>
@@ -37,7 +39,7 @@
                                 </div>                      
                             </div>
 
-                            <div class="carousel-item">
+                            <div class="carousel-item"> <!-- Slide 2 -->
                                 <h5 class=" fs-3 text display-4">Teste Carousel</h5>
                                 <h1 class=" fw-bold display-3">2º Item</h1>
                                 <h3 class="fs-3 display-5">Alguns Projetos</h3>
@@ -64,28 +66,61 @@
                                 </div>
                             </div>                        
                         </div> 
-                    <a href="#controle" class="carousel-control-prev text-decoration-none" data-bs-slide="prev">
+                    <a href="#controle" class="carousel-control-prev text-decoration-none" data-bs-slide="prev"> <!-- Controles do Caroussel -->
                         <i class="fas fa-angle-left fa-3x"></i>
                     </a>
 
-                    <a href="#controle" class="carousel-control-next text-decoration-none" data-bs-slide="next">
+                    <a href="#controle" class="carousel-control-next text-decoration-none" data-bs-slide="next"> <!-- Controles do Caroussel -->
                         <i class="fas fa-angle-right fa-3x"></i>
                     </a>
 
+                </div> <!-- Fim do Caroussel-->
+            </div>
+        </div>
+    </div>
+</section> <!--  Fim da Section Principal com o Carousel e a Apresentação -->
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 d-flex">
+                <div class="align-self-center">
+                    <h5 class="fs-6 text-warning">SOBRE MIM</h5>
+                    <h2 class="display-5">Conheça mais sobre mim</h2>
+                    <p class="fs-4 mt-5">
+                        Sou desenvolvedor Full-Stack e tenho experiência em projetos desenvolvidos com <span
+                            class="text-warning fw-bold">ASP.NET</span>, <span class="text-warning fw-bold">PHP</span>,
+                        <span class="text-warning fw-bold">C#</span>, <span class="text-warning fw-bold">HTML</span>,
+                        <span class="text-warning fw-bold">CSS</span> e <span
+                            class="text-warning fw-bold">Javascript</span>, além de utilizar <span
+                            class="fst-italic">frameworks</span> como <span
+                            class="text-warning fw-bold">Bootstrap</span> e <span class="text-warning fw-bold">Entity
+                            Framework</span>. </p>
+
+                    <p class="fs-4">Sou formado em <span class="text-warning fw-bold">Sistemas de Informação</span> pela
+                        Universidade <span class="text-warning fw-bold">Estácio de Sá</span>, concluindo
+                        meus estudos em 2022. Complementarmente, possuo certificações em cursos de desenvolvimento
+                        ministrados por instituições e empresas renomadas, incluindo <span
+                            class="text-warning fw-bold">DIO</span>, <span class="text-warning fw-bold">SENAC-RJ</span>,
+                        <span class="text-warning fw-bold">COTI</span> e
+                        <span class="text-warning fw-bold">Udemy</span>.
+                    </p>
+
+                    <p class="fs-4">Além das habilidades em tecnologias de desenvolvimento, possuo conhecimento e
+                        experiência com ferramentas como <span class="text-warning fw-bold">Adobe Photoshop</span>, que utilizo para criar e otimizar imagens em
+                        meus projetos, e <span class="text-warning fw-bold">Figma</span>, essencial para a estruturação e prototipagem do modelo visual dos
+                        projetos.</p>
+
+                    <p class="fs-4">Estou pronto para ingressar na sua equipe de desenvolvedores e contribuir para o crescimento e
+                    sucesso dos negócios da sua empresa.</p>
+                    
                 </div>
+
+            </div>
+            <div class="col-md-4">
+                Imagem
             </div>
         </div>
     </div>
 </section>
 
-
-@section Estilos {
-    <style>
-        .principal {
-            background-image: url('@Url.Content("~/images/bgindex2.jpg")');
-            background-position: center;
-            background-repeat: no-repeat;
-
-        }
-    </style>
-}

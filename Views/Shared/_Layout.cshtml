@@ -9,15 +9,16 @@
     <meta name="theme-color" content="#ffffff">
     <title>@ViewData["Title"] - Portfólio</title>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     @RenderSection("Estilos", required: false)
     <link rel="stylesheet" href="~/Site.styles.css" asp-append-version="true" />
 </head>
 
-<body class=" bg-dark text-white">
+<body class="text-white">
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-dark line-bottom">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light line-bottom">
             <div class="container">
                 <a class="navbar-brand">
                     <img src="~/images/logo.png" width="142">
@@ -44,7 +45,7 @@
 
         </nav>
     </header>
-    <div class="bg-dark text-white">
+    <div class="text-white">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
