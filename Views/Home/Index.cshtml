@@ -4,83 +4,69 @@
 
 
 
-<section class="vh-100 d-flex principal">     <!-- Section Principal com o Carousel e a Apresentação -->
+<section class="py-5 mb-5 text-white"> <!-- Remove vh-100 para evitar altura fixa em telas pequenas -->
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-10 text-center">
+        <div id="controle" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
+          
+          <div class="carousel-inner">
 
-    <div class="container align-self-center text-white">
-        <div class="row">
-            <div class="text-center col-sm-12">
-                <div class="carousel slide" id="controle" data-bs-ride="carousel" data-bs-interval="5000">  <!-- Início do Caroussel-->
-                        <div class="carousel-inner">
+            <div class="carousel-item active">
+              <h5 class="fs-4">Olá, visitante!</h5>
+              <h1 class="fw-bold display-4">Meu nome é <span class="purple">Jefferson</span></h1>
+              <h3 class="fs-5">Desenvolvedor FullStack</h3>
 
-                            <div class="carousel-item active">  <!-- Slide 1 -->
-                                <h5 class=" fs-3 text display-4">Olá, visitante!</h5>
-                                <h1 class=" fw-bold display-3">Meu nome é <span class="purple">Jefferson</span></h1>
-                                <h3 class="fs-3 display-5">Desenvolvedor FullStack</h3>
-
-                                <div class="text-center mt-5 navbar-expand-sm">
-                                    <ul class="navbar-nav justify-content-center ">
-                                        <li>                
-                                            <a href="https://linkedin.com/in/jefferson-maia88">
-                                            <img src="~/images/linkedin.png" width="30">
-                                            </a>
-                                        </li>
-                                        <li class="ms-5">
-                                            <a href="https://github.com/jeffmaia88">
-                                                <img src="~/images/github.png" width="30">                    
-                                            </a>
-                                        </li>
-                                        <li class="ms-5">
-                                            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jefferson.reis88@gmail.com&su=Contato via portfólio" target="_blank">
-                                                <img src="~/images/mail.png" width="40">
-                                            </a>
-                                        </li>
-
-                                    </ul>
-                                </div>                      
-                            </div>
-
-                            <div class="carousel-item"> <!-- Slide 2 -->
-                                <h5 class=" fs-3 text display-4">Teste Carousel</h5>
-                                <h1 class=" fw-bold display-3">2º Item</h1>
-                                <h3 class="fs-3 display-5">Alguns Projetos</h3>
-
-                                <div class="text-center mt-5 navbar-expand-sm">
-                                    <ul class="navbar-nav justify-content-center ">
-                                        <li>                
-                                            <a href="https://linkedin.com/in/jefferson-maia88">
-                                            <img src="~/images/linkedin.png" width="30">
-                                            </a>
-                                        </li>
-                                        <li class="ms-5">
-                                            <a href="https://github.com/jeffmaia88">
-                                                <img src="~/images/github.png" width="30">                    
-                                            </a>
-                                        </li>
-                                        <li class="ms-5">
-                                            <a href="#">
-                                                <img src="~/images/mail.png" width="40">
-                                            </a>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>                        
-                        </div> 
-                    <a href="#controle" class="carousel-control-prev text-decoration-none" data-bs-slide="prev"> <!-- Controles do Caroussel -->
-                        <i class="fas fa-angle-left fa-3x"></i>
-                    </a>
-
-                    <a href="#controle" class="carousel-control-next text-decoration-none" data-bs-slide="next"> <!-- Controles do Caroussel -->
-                        <i class="fas fa-angle-right fa-3x"></i>
-                    </a>
-
-                </div> <!-- Fim do Caroussel-->
+              <div class="mt-4 d-flex justify-content-center gap-4 flex-wrap">
+                <a href="https://linkedin.com/in/jefferson-maia88">
+                  <img src="~/images/linkedin.png" width="30" alt="LinkedIn" class="img-fluid">
+                </a>
+                <a href="https://github.com/jeffmaia88">
+                  <img src="~/images/github.png" width="30" alt="GitHub" class="img-fluid">
+                </a>
+                <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jefferson.reis88@gmail.com&su=Contato via portfólio" target="_blank">
+                  <img src="~/images/mail.png" width="40" alt="Email" class="img-fluid">
+                </a>
+              </div>
             </div>
-        </div>
-    </div>
-</section> <!--  Fim da Section Principal com o Carousel e a Apresentação -->
 
-<section>
+            <div class="carousel-item">
+              <h5 class="fs-4">Teste Carousel</h5>
+              <h1 class="fw-bold display-4">2º Item</h1>
+              <h3 class="fs-5">Alguns Projetos</h3>
+
+              <div class="mt-4 d-flex justify-content-center gap-4 flex-wrap">
+                <a href="https://linkedin.com/in/jefferson-maia88">
+                  <img src="~/images/linkedin.png" width="30" alt="LinkedIn" class="img-fluid">
+                </a>
+                <a href="https://github.com/jeffmaia88">
+                  <img src="~/images/github.png" width="30" alt="GitHub" class="img-fluid">
+                </a>
+                <a href="#">
+                  <img src="~/images/mail.png" width="40" alt="Email" class="img-fluid">
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Controles do Carrossel -->
+          <button class="carousel-control-prev" type="button" data-bs-target="#controle" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Anterior</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#controle" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Próximo</span>
+          </button>
+
+        </div> <!-- Fim do Carousel -->
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="mt-5">
     <div class="container">
         <div class="row">
             <div class="col-md-8 d-flex">
@@ -91,11 +77,11 @@
                         Sou desenvolvedor Full-Stack e tenho experiência em projetos desenvolvidos com <span
                             class="highlights">ASP.NET</span>, <span class="highlights">PHP</span>,
                         <span class="highlights">C#</span>, <span class="highlights">HTML</span>,
-                        <span class="highlights">CSS</span> e <span
-                            class="highlights">Javascript</span>, além de utilizar <span
-                            class="fst-italic">frameworks</span> como <span
+                        <span class="highlights">CSS</span> e <span class="highlights">Javascript</span>, além de
+                        utilizar <span class="fst-italic">frameworks</span> como <span
                             class="highlights">Bootstrap</span> e <span class="highlights">Entity
-                            Framework</span>. </p>
+                            Framework</span>.
+                    </p>
 
                     <p class="fs-4">Sou formado em <span class="highlights">Sistemas de Informação</span> pela
                         Universidade <span class="highlights">Estácio de Sá</span>, concluindo
@@ -107,13 +93,16 @@
                     </p>
 
                     <p class="fs-4">Além das habilidades em tecnologias de desenvolvimento, possuo conhecimento e
-                        experiência com ferramentas como <span class="highlights">Adobe Photoshop</span>, que utilizo para criar e otimizar imagens em
-                        meus projetos, e <span class="highlights">Figma</span>, essencial para a estruturação e prototipagem do modelo visual dos
+                        experiência com ferramentas como <span class="highlights">Adobe Photoshop</span>, que utilizo
+                        para criar e otimizar imagens em
+                        meus projetos, e <span class="highlights">Figma</span>, essencial para a estruturação e
+                        prototipagem do modelo visual dos
                         projetos.</p>
 
-                    <p class="fs-4">Estou pronto para ingressar na sua equipe de desenvolvedores e contribuir para o crescimento e
-                    sucesso dos negócios da sua empresa.</p>
-                    
+                    <p class="fs-4">Estou pronto para ingressar na sua equipe de desenvolvedores e contribuir para o
+                        crescimento e
+                        sucesso dos negócios da sua empresa.</p>
+
                 </div>
 
             </div>
@@ -121,130 +110,93 @@
                 Imagem
             </div>
         </div>
+        <div class="d-flex flex-wrap justify-content-center gap-3 mt-5">
+            <!-- Cards de tecnologia -->
+            <div class="card bg-dark text-white text-center" style="width: 93px">
+                <div class="card-body">
+                    <img src="~/images/html.png" class="img-fluid mb-2" alt="HTML">
+                    <h5>HTML</h5>
+                </div>
+            </div>
+            <div class="card bg-dark text-white text-center" style="width: 93px">
+                <div class="card-body">
+                    <img src="~/images/css.png" class="img-fluid mb-2" alt="CSS">
+                    <h5>CSS</h5>
+                </div>
+            </div>
 
-        <div class="row mt-5 justify-content-center">
-            <div class="col-sm-1">
-                <div class="card-columns">
-                    <div class="card bg-dark cards">                    
-                        <div class="card-body pl-0">
-                            <img src="~/images/html.png" >
-                            <h5>HTML</h5>                            
-                        </div>
-                    </div>
+            <div class="card bg-dark text-white text-center" style="width: 93px">
+                <div class="card-body">
+                    <img src="~/images/js.png" class="img-fluid mb-2" alt="JavaScript">
+                    <h5>JavaScript</h5>
                 </div>
             </div>
-            <div class="col-sm-1">
-                <div class="card-columns">
-                    <div class="card bg-dark cards">                    
-                        <div class="card-body">
-                            <img src="~/images/css.png" >
-                            <h5>CSS</h5>
-                        </div>
-                    </div>
+
+            <div class="card bg-dark text-white text-center" style="width: 93px">
+                <div class="card-body">
+                    <img src="~/images/bootstrap.png" class="img-fluid mb-2" alt="Bootstrap">
+                    <h5>Bootstrap</h5>
                 </div>
             </div>
-            <div class="col-sm-1">
-                <div class="card-columns">
-                    <div class="card bg-dark cards">                    
-                        <div class="card-body">
-                            <img src="~/images/js.png" >
-                            <h5>JavaScript</h5>
-                        </div>
-                    </div>
+
+            <div class="card bg-dark text-white text-center" style="width: 93px">
+                <div class="card-body">
+                    <img src="~/images/sharp.png" class="img-fluid mb-2" alt="C#">
+                    <h5>C#</h5>
                 </div>
             </div>
-            <div class="col-sm-1">
-                <div class="card-columns">
-                    <div class="card bg-dark cards">                    
-                        <div class="card-body">
-                            <img src="~/images/bootstrap.png" >
-                            <h5>Bootstrap</h5>
-                        </div>
-                    </div>
+
+            <div class="card bg-dark text-white text-center" style="width: 93px">
+                <div class="card-body">
+                    <img src="~/images/asp.png" class="img-fluid mb-2" alt="ASP.NET">
+                    <h5>Asp.NET</h5>
                 </div>
             </div>
-                <div class="col-sm-1">
-                    <div class="card-columns">
-                        <div class="card bg-dark cards">                    
-                            <div class="card-body">
-                                <img src="~/images/sharp.png" >
-                                <h5>C#</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-1">
-                    <div class="card-columns">
-                        <div class="card bg-dark cards">                    
-                            <div class="card-body">
-                                <img src="~/images/asp.png" >
-                                <h5>Asp.NET</h5>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-    </div>
-    <div class="row mt-3 justify-content-center">
-            <div class="col-sm-1">
-                <div class="card-columns">
-                    <div class="card bg-dark cards">                    
-                        <div class="card-body pl-0">
-                            <img src="~/images/sql.png" >
-                            <h5>Sql Server</h5>                            
-                        </div>
-                    </div>
+
+            <div class="card bg-dark text-white text-center" style="width: 93px">
+                <div class="card-body">
+                    <img src="~/images/sql.png" class="img-fluid mb-2" alt="SQL Server">
+                    <h5>SQL Server</h5>
                 </div>
             </div>
-            <div class="col-sm-1">
-                <div class="card-columns">
-                    <div class="card bg-dark cards">                    
-                        <div class="card-body">
-                            <img src="~/images/mysql.png" >
-                            <h5>MySQL</h5>
-                        </div>
-                    </div>
+
+            <div class="card bg-dark text-white text-center" style="width: 93px">
+                <div class="card-body">
+                    <img src="~/images/mysql.png" class="img-fluid mb-2" alt="MySQL">
+                    <h5>MySQL</h5>
                 </div>
             </div>
-            <div class="col-sm-1">
-                <div class="card-columns">
-                    <div class="card bg-dark cards">                    
-                        <div class="card-body">
-                            <img src="~/images/node.png" >
-                            <h5>Node JS</h5>
-                        </div>
-                    </div>
+
+            <div class="card bg-dark text-white text-center" style="width: 93px">
+                <div class="card-body">
+                    <img src="~/images/node.png" class="img-fluid mb-2" alt="Node.js">
+                    <h5>Node JS</h5>
                 </div>
             </div>
-            <div class="col-sm-1">
-                <div class="card-columns">
-                    <div class="card bg-dark cards">                    
-                        <div class="card-body">
-                            <img src="~/images/php.png" >
-                            <h5>PHP</h5>
-                        </div>
-                    </div>
+
+            <div class="card bg-dark text-white text-center" style="width: 93px">
+                <div class="card-body">
+                    <img src="~/images/php.png" class="img-fluid mb-2" alt="PHP">
+                    <h5>PHP</h5>
                 </div>
             </div>
-                <div class="col-sm-1">
-                    <div class="card-columns">
-                        <div class="card bg-dark cards">                    
-                            <div class="card-body">
-                                <img src="~/images/PS.png" >
-                                <h5>PS</h5>
-                            </div>
-                        </div>
-                    </div>
+
+            <div class="card bg-dark text-white text-center" style="width: 93px">
+                <div class="card-body">
+                    <img src="~/images/PS.png" class="img-fluid mb-2" alt="Photoshop">
+                    <h5>PS</h5>
                 </div>
-                <div class="col-sm-1">
-                    <div class="card-columns">
-                        <div class="card bg-dark cards">                    
-                            <div class="card-body">
-                                <img src="~/images/Figma.png" >
-                                <h5>Figma</h5>
-                            </div>
-                        </div>
-                    </div>
+            </div>
+
+            <div class="card bg-dark text-white text-center" style="width: 93px">
+                <div class="card-body">
+                    <img src="~/images/figma.png" class="img-fluid mb-2" alt="Figma">
+                    <h5>Figma</h5>
                 </div>
+            </div>
+
+        </div>
+
+
     </div>
 </section>
-

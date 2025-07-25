@@ -13,8 +13,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\Asp.png",
+      "PackagePath": "staticwebassets\\images\\Asp.png"
+    },
+    {
       "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\CSS.png",
       "PackagePath": "staticwebassets\\images\\CSS.png"
+    },
+    {
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\Figma.png",
+      "PackagePath": "staticwebassets\\images\\Figma.png"
     },
     {
       "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\HTML.png",
@@ -29,12 +37,20 @@
       "PackagePath": "staticwebassets\\images\\LOGO.PNG"
     },
     {
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\Mysql.png",
+      "PackagePath": "staticwebassets\\images\\Mysql.png"
+    },
+    {
       "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\PHP.png",
       "PackagePath": "staticwebassets\\images\\PHP.png"
     },
     {
       "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\PS.png",
       "PackagePath": "staticwebassets\\images\\PS.png"
+    },
+    {
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\SQL.png",
+      "PackagePath": "staticwebassets\\images\\SQL.png"
     },
     {
       "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\Sharp.png",
@@ -47,6 +63,10 @@
     {
       "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\bgindex2.jpg",
       "PackagePath": "staticwebassets\\images\\bgindex2.jpg"
+    },
+    {
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\bootstrap.png",
+      "PackagePath": "staticwebassets\\images\\bootstrap.png"
     },
     {
       "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\capa-mulher.png",
@@ -79,6 +99,10 @@
     {
       "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\mail.png",
       "PackagePath": "staticwebassets\\images\\mail.png"
+    },
+    {
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\node.png",
+      "PackagePath": "staticwebassets\\images\\node.png"
     },
     {
       "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\saiba.png",
