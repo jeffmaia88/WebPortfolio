@@ -13,8 +13,32 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\CSS.png",
+      "PackagePath": "staticwebassets\\images\\CSS.png"
+    },
+    {
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\HTML.png",
+      "PackagePath": "staticwebassets\\images\\HTML.png"
+    },
+    {
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\JS.png",
+      "PackagePath": "staticwebassets\\images\\JS.png"
+    },
+    {
       "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\LOGO.PNG",
       "PackagePath": "staticwebassets\\images\\LOGO.PNG"
+    },
+    {
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\PHP.png",
+      "PackagePath": "staticwebassets\\images\\PHP.png"
+    },
+    {
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\PS.png",
+      "PackagePath": "staticwebassets\\images\\PS.png"
+    },
+    {
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\Sharp.png",
+      "PackagePath": "staticwebassets\\images\\Sharp.png"
     },
     {
       "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\bgindex.jpg",

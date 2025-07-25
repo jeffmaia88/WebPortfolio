@@ -2,13 +2,19 @@ html {
   font-size: 14px;
    position: relative;
    min-height: 100%;
-   background-image: url("../images/bgindex2.jpg");
-}
+  }
 
 @media (min-width: 768px) {
   html {
     font-size: 16px;
   }
+}
+
+/* ----------------- Variaveis ------------------*/
+:root {
+  --main-color: #f1bf26;
+  --border-color: #7911fa;
+
 }
 
 .btn:focus,
@@ -34,13 +40,38 @@ body {
 }
 
 #colorlinks a:hover {
-  color: #7911fa
+  color: var(--border-color);
 }
 
 .line-bottom {
-  border-bottom: 1px solid #7911fa;
+  border-bottom: 1px solid var(--border-color);
 }
 
 .line-top {
-  border-top: 1px solid #7911fa;
+  border-top: 1px solid var(--border-color);
+}
+
+
+
+
+.highlights {
+  color: var(--main-color);
+  font-weight: bold;
+}
+
+.purple {
+  color: var(--border-color);
+}
+
+.cards {
+  border-bottom: 3px solid var(--border-color);
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+ 
+
+}
+.cards h5 {
+  font-size: 0.7em;
+  text-align: center;
+  margin-top: 20px;
 }
