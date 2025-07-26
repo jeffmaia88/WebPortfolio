@@ -1,8 +1,9 @@
 html {
   font-size: 14px;
-   position: relative;
-   min-height: 100%;
-  }
+  position: relative;
+  min-height: 100%;
+
+}
 
 @media (min-width: 768px) {
   html {
@@ -14,6 +15,7 @@ html {
 :root {
   --main-color: #f1bf26;
   --border-color: #7911fa;
+  --btn-color: #ffffff;
 
 }
 
@@ -25,9 +27,35 @@ html {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
+header {
+  background-image: linear-gradient(to left, #310467 20%, #000000 40%);
+}
+
+.navbar-toggler {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+
+.navbar-toggler ion-icon {
+  color: var(--btn-color);
+  font-size: 1.8em;
+}
+
+@media (max-width: 768px) {
+  #nav-principal ul {
+    margin-top: 0.6rem;
+  }
+
+  #nav-principal ul li {
+    margin-top: 0.6rem
+  }
+}
+
+
 body {
   margin-bottom: 60px;
-  background-image: url("../images/bgindex2.jpg");
+  background-image: url("../images/bgindex.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -67,9 +95,10 @@ body {
   border-bottom: 3px solid var(--border-color);
   border-radius: 15px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
- 
+
 
 }
+
 .cards h5 {
   font-size: 0.7em;
   text-align: center;
