@@ -104,3 +104,30 @@ body {
   text-align: center;
   margin-top: 20px;
 }
+
+
+
+
+.hidden-left {
+  opacity: 0;
+  transform: translateX(-100px);
+  transition: opacity 1.2s ease, transform 1.2s ease;
+}
+
+.hidden-right {
+  opacity: 0;
+  transform: translateX(100px);
+  transition: opacity 1.2s ease, transform 1.2s ease;
+}
+
+.hidden-bottom {
+  opacity: 0;
+  transform: translateY(100px);
+  transition: opacity 1.2s ease, transform 1.2s ease;
+}
+
+
+.visible {
+  opacity: 1;
+  transform: translateX(0);
+}

@@ -1,327 +1,327 @@
 {
   "Files": [
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Site.bundle.scp.css",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Site.bundle.scp.css",
       "PackagePath": "staticwebassets\\Site.bundle.scp.css"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\css\\site.css",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\favicon.ico",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\Asp.png",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\Asp.png",
       "PackagePath": "staticwebassets\\images\\Asp.png"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\CSS.png",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\CSS.png",
       "PackagePath": "staticwebassets\\images\\CSS.png"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\Figma.png",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\Figma.png",
       "PackagePath": "staticwebassets\\images\\Figma.png"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\HTML.png",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\HTML.png",
       "PackagePath": "staticwebassets\\images\\HTML.png"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\JS.png",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\JS.png",
       "PackagePath": "staticwebassets\\images\\JS.png"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\LOGO.PNG",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\LOGO.PNG",
       "PackagePath": "staticwebassets\\images\\LOGO.PNG"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\Mysql.png",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\Mysql.png",
       "PackagePath": "staticwebassets\\images\\Mysql.png"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\PHP.png",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\PHP.png",
       "PackagePath": "staticwebassets\\images\\PHP.png"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\PS.png",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\PS.png",
       "PackagePath": "staticwebassets\\images\\PS.png"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\SQL.png",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\SQL.png",
       "PackagePath": "staticwebassets\\images\\SQL.png"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\Sharp.png",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\Sharp.png",
       "PackagePath": "staticwebassets\\images\\Sharp.png"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\bgindex.jpg",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\bgindex.jpg",
       "PackagePath": "staticwebassets\\images\\bgindex.jpg"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\bootstrap.png",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\bootstrap.png",
       "PackagePath": "staticwebassets\\images\\bootstrap.png"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\capa-mulher.png",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\capa-mulher.png",
       "PackagePath": "staticwebassets\\images\\capa-mulher.png"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\favicon.png",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\favicon.png",
       "PackagePath": "staticwebassets\\images\\favicon.png"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\github.png",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\github.png",
       "PackagePath": "staticwebassets\\images\\github.png"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\linkedin.png",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\linkedin.png",
       "PackagePath": "staticwebassets\\images\\linkedin.png"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\mail.png",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\mail.png",
       "PackagePath": "staticwebassets\\images\\mail.png"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\node.png",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\node.png",
       "PackagePath": "staticwebassets\\images\\node.png"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\images\\techs.png",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\images\\techs.png",
       "PackagePath": "staticwebassets\\images\\techs.png"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\js\\site.js",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Users\\Jefferson\\Desktop\\Desenvolvimento\\Portfolio\\WebPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\Users\\jefferson.maia\\Desktop\\Desenvolvimento\\WebPortfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
